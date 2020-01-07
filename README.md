@@ -1,4 +1,5 @@
 "# core_php_curd" 
+
 CRUD(Create Read Update Delete) in Core PHP with Pagination
 =============================================================================================
 

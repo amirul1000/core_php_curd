@@ -4,7 +4,7 @@ CRUD(Create Read Update & Delete) in Core PHP with Pagination
 =============================================================================================
 
 
-Youtube Tutorial : https://youtu.be/IkdsHu06hms
+Youtube Tutorial : https://youtu.be/66MsqbL2HA8
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 

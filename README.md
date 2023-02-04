@@ -7,10 +7,7 @@ CRUD is an acronym for Create, Read, Update, and Delete. CRUD operations are bas
 
 
 
-Youtube Tutorial : https://youtu.be/66MsqbL2HA8
-
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
-
+Youtube Tutorial : https://youtu.be/LUXPjSxj9Cs
 
 Donate to Paypal : patabuz@gmail.com
 
